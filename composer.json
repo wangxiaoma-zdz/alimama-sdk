@@ -1,5 +1,5 @@
 {
-  "name": "alimama-sdk",
+  "name": "wangxiaoma-tbk",
   "description": "description",
   "minimum-stability": "stable",
   "license": "proprietary",
@@ -14,7 +14,7 @@
   },
   "autoload": {
     "psr-4": {
-      "AlimamaSdk\\": "top/request/"
+      "WangxiaomaTbk\\": "top/request/"
     }
   }
 }
